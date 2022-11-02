@@ -3,6 +3,13 @@ import asyncHandler from 'express-async-handler'
 
 
 
+//retrive product items
+const getProducts = asyncHandler(async (req, res) => {
+  const food = await Product.find({})
+  res.json(food)
+})
+
+
 //retrive product items by ID
 const getProductbyID = asyncHandler(async (req, res) => {
   const product = await Product.findById(req.params.id)
@@ -24,4 +31,4 @@ const getProductbyID = asyncHandler(async (req, res) => {
 })
 
 
-export { getProductbyID }
+export { getProductbyID, getProducts }

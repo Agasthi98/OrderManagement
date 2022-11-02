@@ -1,37 +1,37 @@
 const products = [
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
+    name: 'AccuChekActiveMeter',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+      'AccuChekActiveMeter',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/airpods.jpg',
+    image: '/images/AccuChekActiveMeter.jpg',
   },
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
+    name: 'Allstarpen',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+      'AccuChekActiveMeter',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/phone.jpg',
+    image: '/images/Allstarpen.jpg',
    
   },
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
+    name: 'corsodyl',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+      'corsodyl',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/camera.jpg',
+    image: '/images/corsodyl.jpg',
     
   },
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
+    name: 'faceMask',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+      'faceMask',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/camera.jpg',
+    image: '/images/faceMask.jpg',
     
   },
 ]
