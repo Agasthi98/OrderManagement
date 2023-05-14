@@ -1,37 +1,82 @@
 const products = [
   {
-    name: 'AccuChekActiveMeter',
+    name: 'compost',
     description:
-      'AccuChekActiveMeter',
+      'compost',
     price: 89.99,
-    category: 'Electronics',
-    image: '/images/AccuChekActiveMeter.jpg',
+    category: 'field',
+    image: '/images/1.jpg',
   },
   {
-    name: 'Allstarpen',
+    name: 'battery',
     description:
-      'AccuChekActiveMeter',
+      'battery',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/Allstarpen.jpg',
+    image: '/images/2.jpg',
    
   },
   {
-    name: 'corsodyl',
+    name: 'can',
     description:
-      'corsodyl',
+      'can',
     price: 89.99,
-    category: 'Electronics',
-    image: '/images/corsodyl.jpg',
+    category: 'field',
+    image: '/images/3.jpg',
     
   },
   {
-    name: 'faceMask',
+    name: 'tires',
     description:
-      'faceMask',
+      'tires',
+    price: 89.99,
+    category: 'vehicle',
+    image: '/images/4.jpg',
+    
+  },
+  {
+    name: 'laptop',
+    description:
+      'laptop',
     price: 89.99,
     category: 'Electronics',
-    image: '/images/faceMask.jpg',
+    image: '/images/5.jpg',
+    
+  },
+  {
+    name: 'monitor',
+    description:
+      'monitor',
+    price: 89.99,
+    category: 'Electronics',
+    image: '/images/6.jpg',
+    
+  },
+  {
+    name: 'phones',
+    description:
+      'phones',
+    price: 89.99,
+    category: 'Electronics',
+    image: '/images/7.jpg',
+    
+  },
+  {
+    name: 'papers',
+    description:
+      'papers',
+    price: 89.99,
+    category: 'papers',
+    image: '/images/8.jpg',
+    
+  },
+  {
+    name: 'sofa',
+    description:
+      'sofa',
+    price: 89.99,
+    category: 'Furniture',
+    image: '/images/9.jpg',
     
   },
 ]
